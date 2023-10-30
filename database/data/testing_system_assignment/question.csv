@@ -1,0 +1,14 @@
+Content;CategoryID;TypeID;CreatorID
+Explain the differences between ArrayList and LinkedList in Java. When would you choose one over the other;1;1;2
+What is the difference between method overloading and method overriding in Java? Provide examples to illustrate each concept;1;1;3
+How does Java handle memory management and garbage collection? What is the role of the finalize() method in this context;1;1;2
+What are the principles of Object-Oriented Programming (OOP) in Java? How do concepts like encapsulation, inheritance, and polymorphism apply in Java;1;1;1
+Discuss the concept of multithreading in Java. Explain how you would create and manage multiple threads in a Java program. What are some potential issues related to multithreading, and how can they be mitigated;1;1;3
+Explain the differences between C# and VB.NET in the .NET framework. What are the advantages of using one language over the other in specific scenarios;2;1;4
+What is the Common Language Runtime (CLR) in the .NET framework, and how does it manage memory and handle exceptions;2;1;5
+Discuss the concept of dependency injection and inversion of control (IoC) in .NET. How do these principles facilitate testability and maintainability in software development, and what are some popular IoC containers in .NET;2;1;1
+What are the key features of ASP.NET? How does ASP.NET differ from ASP.NET Core, and when would you choose one over the other for web development;2;1;2
+Explain the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN in SQL. Provide examples of scenarios where you would use each type of join;3;1;3
+INNER JOIN returns only the rows with matching values in both tables. LEFT JOIN returns all rows from the left table and matching rows from the right table. RIGHT JOIN is similar to LEFT JOIN but returns all rows from the right table. FULL OUTER JOIN returns all rows when there is a match in either the left or right table;3;1;4
+What is the purpose of SQL indexes, and how do they improve query performance? Describe the differences between clustered and non-clustered indexes, and when to use each;3;1;1
+SQL indexes improve query performance by providing a faster way to look up rows in a table. Clustered indexes determine the physical order of data rows in a table, while non-clustered indexes provide a separate structure for quick data retrieval. Clustered indexes are typically used on primary key columns, while non-clustered indexes can be created on any column to optimize specific queries;3;1;2

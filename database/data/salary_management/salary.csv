@@ -1,0 +1,37 @@
+;user_role_id;email;Department;Role;start_date;end_date;month;year;total_salary
+;16;leha946@gmail.com;Admin;Tr??ng phòng;01/06/2023;;6;2023;30000000
+;21;taitrong803@gmail.com;Admin;CTV;01/01/2023;;6;2023;6000000
+;8;nguphuong73@gmail.com;Delivery;Tr??ng phòng;01/05/2023;;6;2023;22000000
+;4;tuanvu644@gmail.com;Delivery;Phó phòng;01/05/2023;;6;2023;18000000
+;14;tuananh131@gmail.com;Delivery;Nhân viên;01/05/2023;;6;2023;8000000
+;19;lemai388@gmail.com;Delivery;Nhân viên;01/01/2023;;6;2023;8000000
+;12;trankien966@gmail.com;Delivery;CTV;01/01/2023;;6;2023;4000000
+;22;baole221@gmail.com;Delivery;CTV;01/01/2023;;6;2023;4000000
+;2;hoangnam176@gmail.com;HR;Tr??ng phòng;01/06/2023;;6;2023;28000000
+;18;baoquyen54@gmail.com;HR;Phó phòng;01/06/2023;;6;2023;23000000
+;6;hungdam414@gmail.com;IT;Tr??ng phòng;01/06/2023;;6;2023;40000000
+;10;haitu490@gmail.com;IT;Phó phòng;01/06/2023;;6;2023;35000000
+;11;minhtrang818@gmail.com;IT;CTV;01/01/2023;;6;2023;8000000
+;20;trungnguyen892@gmail.com;IT;CTV;01/01/2023;;6;2023;8000000
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+AdminTr??ng phòng;Admin;Tr??ng phòng;30000000;;;;;;
+AdminPhó phòng;Admin;Phó phòng;25000000;;;;;;
+AdminNhân viên;Admin;Nhân viên;10000000;;;;;;
+AdminCTV;Admin;CTV;6000000;;;;;;
+HRTr??ng phòng;HR;Tr??ng phòng;28000000;;;;;;
+HRPhó phòng;HR;Phó phòng;23000000;;;;;;
+HRNhân viên;HR;Nhân viên;8000000;;;;;;
+HRCTV;HR;CTV;5000000;;;;;;
+ITTr??ng phòng;IT;Tr??ng phòng;40000000;;;;;;
+ITPhó phòng;IT;Phó phòng;35000000;;;;;;
+ITNhân viên;IT;Nhân viên;15000000;;;;;;
+ITCTV;IT;CTV;8000000;;;;;;
+DeliveryTr??ng phòng;Delivery;Tr??ng phòng;22000000;;;;;;
+DeliveryPhó phòng;Delivery;Phó phòng;18000000;;;;;;
+DeliveryNhân viên;Delivery;Nhân viên;8000000;;;;;;
+DeliveryCTV;Delivery;CTV;4000000;;;;;;

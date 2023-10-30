@@ -1,0 +1,6 @@
+AccountID,Email,Username,FullName,DepartmentID,PositionID,CreateDate
+1,tieppham18@gmail.com,tieppham,"Phạm Văn Tiếp",2,1,2023-09-22
+2,hoanghoa@gmail.com,hoang,"Phạm Huy Hoàng",3,2,2023-09-22
+3,trangdo@gmail.com,trangdo,"Đỗ Thu Trang",3,3,2023-09-22
+4,haitran@gmail.com,haitran,"Trần Việt Hải",4,5,2023-09-22
+5,phuongle@gmail.com,phuongle,"Lê Thị Phượng",4,6,2023-09-22
